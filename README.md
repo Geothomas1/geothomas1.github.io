@@ -1,2 +1,2 @@
 # geothomas1.github.io
-My Website
+My Personal Website
